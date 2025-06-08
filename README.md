@@ -1,2 +1,1 @@
-# Computer-Vision-and-Artificial-Intelligence
-Advanced Image Classification for Automated Disease Diagnosis Using Computer Vision
+Dataset Link -- https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset
